@@ -1,0 +1,10 @@
+title: Site Name
+blocks:
+    - component: home-hero
+      title: Make stuff better
+      intro: |
+        <p>Use our cool tech to make stuff better..</p>
+    - component: other-component
+      title: This one does cool stuff
+      intro: |
+        <p>I like this the most.</p>

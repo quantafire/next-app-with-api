@@ -1,0 +1,7 @@
+{
+    "functions": {
+        "pages/api/page/[slug].js": {
+            "includeFiles": "data/**"
+        }
+    }
+}
